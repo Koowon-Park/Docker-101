@@ -1,0 +1,3 @@
+# HISTORY
+# 2025/6/14
+- README.md 번역
